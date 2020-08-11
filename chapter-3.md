@@ -1,4 +1,9 @@
-
+---
+title: 3번 챕터
+seoTitle: 타이틀
+seoDescription: 설명
+isFree: true
+---
 
 
 
