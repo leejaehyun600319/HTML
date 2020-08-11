@@ -1,3 +1,10 @@
+---
+title: Introduction
+seoTitle: 타이틀
+seoDescription: 설명
+isFree: true
+---
+
 <!DOCTYPE html>
 <html>
 
