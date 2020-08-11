@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: chapter1
 seoTitle: 타이틀
 seoDescription: 설명
 isFree: true
